@@ -30,6 +30,9 @@ Average Work-Life Balance	2.76 / 4
 
 
 📑 Dashboard Breakdown
+<img width="835" height="490" alt="Image" src="https://github.com/user-attachments/assets/3e882143-6bb7-4d8b-a242-65b7996fe50f" />
+<img width="849" height="479" alt="Image" src="https://github.com/user-attachments/assets/55d7de5d-00bf-43cc-9f5d-036ffbb1535e" />
+<img width="742" height="497" alt="Image" src="https://github.com/user-attachments/assets/1a42eebc-da88-482a-9387-5b419f6b9839" />
 Page 1: Overall Attrition Overview (HR_ANALYTICS_1.png)
 Goal: High-level snapshot of who is leaving.
 
