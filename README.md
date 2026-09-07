@@ -73,12 +73,45 @@ Satisfaction Link: Lower Environment Satisfaction (2.72) and Work-Life Balance (
 Education: Life Sciences + Medical background = ~68% of workforce and attrition - domain-specific hiring pressure.
 
 
-🛠️ Recommendations
-Implement a First-Year Engagement Program (mentorship, 30-60-90 check-ins).
-Targeted retention for Single employees and R&D roles - flexible work, career pathing.
-Reduce Branch/Remote isolation - improve engagement for distributed teams.
-Training Investment: Move employees from 'No Training' to Leadership training - 40% lower attrition observed.
-Review Travel Policy: Rare travelers still leave - travel is not the main driver, focus on WLB.
+**Recommendations - **
+1. Fix the First-Year Churn - Highest Priority
+Data: Attrition rate by Years at Company shows 58+ exits in Year 0-1, then a second spike at Year 10 (14 exits). After Year 12, attrition is almost 0.
+Recommendation: Launch a 30-60-90-180 day onboarding & mentorship program. Assign buddies, monthly manager check-ins, and clear role clarity in first year. Also do a 10-year career refresh interview.
+
+2. Focus on R&D and Sales
+Data: R&D = 133 exits (56% of all attrition), Sales = 92. HR = only 12. Page 2 also shows R&D is 65% of your total workforce (961).
+Recommendation: R&D needs immediate retention action — career pathing, skill upskilling to Leadership, and lab workload review. For Sales, review compensation (Average Monthly Income is only 7K vs Rate 14K).
+
+3. Single Employees are 2x More Likely to Leave
+Data: Single = 51% of attrition (120) while they are only 31.97% of workforce (470). Married = 35% of attrition but 45.78% of workforce.
+Recommendation: Single employees value flexibility and growth more than stability. Offer flexible work, learning stipends, and social engagement activities.
+
+4. Branch Office + Remote = 86% of Exits
+Data: Branch Office 103, Remote 101, Head Office only 33.
+Recommendation: Branch/Remote isolation is real. Introduce quarterly HQ visits, better manager connect, and remote engagement budget. Even though rate is similar (∼5.5%), volume is killing you.
+
+5. Age Group 25-34 is Your Risk Zone
+Data: 112 exits (47.26%) are in 25-34 band. Next is 35-44 with 51 exits (21.5%).
+Recommendation: This is your high-potential, high-market-value group. Create fast-track promotions, compensation benchmarking for 25-34 males (Male attrition is 150 vs Female 87), and work-life balance improvement (Avg WLB is only 2.76/4).
+
+6. Training Makes a Difference
+Data: Attrition by Training: Excel Work = 92, None = 90, Leadership Training = 55 (lowest).
+Recommendation: Move people from 'No Training' to Leadership training. Make leadership training mandatory after 2 years. It cuts attrition by ∼40%.
+
+7. Environment Satisfaction is Lower Than Performance
+Data: Avg Performance Rating 3.15 but Env Satisfaction 2.72 and WLB 2.76. Job Satisfaction Rating: 223 people gave Rating 1 (lowest).
+Recommendation: Performance is not the issue, environment is. Focus on manager training (Job Role: Manager 97, Research Director 78), recognition, and workload. Especially for roles: Sales Executive (269 headcount), Research Scientist (245), Lab Technician (197) — check their satisfaction spread.
+
+8. Education Field Hiring Strategy
+Data: Life Sciences 606 (41.22%) + Medical 464 (31.56%) = 73% of workforce and most of the attrition.
+Recommendation: You are over-dependent on these two pools. Diversify hiring or create a retention bonus for these hot skills, as market demand for them is high.
+
+
+Quick Win Action Plan:
+
+30 days: Exit interview audit for 25-34, Single, R&D, Year 0-1 leavers
+90 days: First-year engagement program + Remote connect program
+180 days: Leadership training for all with 'None' + WLB policy review
 
 
 📁 Project Structure
